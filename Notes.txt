@@ -6,3 +6,5 @@ git remote add origin https://github.com/rahuljmakwana/FirstHomework.git
 git push -u origin master
 
 git clone https://github.com/rahuljmakwana/FirstHomework.git
+
+git cinfig - git commit - m
